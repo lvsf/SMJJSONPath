@@ -31,7 +31,7 @@ TODO:
 
   s.homepage         = 'https://github.com/javerous/SMJJSONPath'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-  s.license          = { :type => 'Apache', :file => 'LICENSE' }
+  s.license          = 'MIT'
   s.author           = { 'javerous' => 'javerous@mamot.fr' }
   s.source           = { :git => 'git@github.com:javerous/SMJJSONPath.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
